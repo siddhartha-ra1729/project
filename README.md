@@ -1,1 +1,1 @@
-its a project about stock prediction 
+ml project deatils
